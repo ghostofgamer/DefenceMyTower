@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81bac150d363ce04990c9562b4d532ac, type: 3}
+  m_Name: FireMage
+  m_EditorClassIdentifier: 
+  _costs: a0000000fa0000002c01000018010000
+  _buyCost: 100
+  _damages: 190000003c0000005500000082000000
+  _delays:
+  - 2
+  - 2.5
+  - 3
+  - 3.5
+  _towerType: 3
+  _radius: 0f0000000f0000000f0000000f000000
+  _titleLocalized: {fileID: 5961617315905503949, guid: 60536d0ece2a4c24ca81ec1aa64c6d40, type: 3}
+  _descriptionLocalized: {fileID: 7903676681243455205, guid: 6fbd126ca1e04da4d928313a56d6fef6, type: 3}

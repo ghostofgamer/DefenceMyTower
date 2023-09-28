@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81bac150d363ce04990c9562b4d532ac, type: 3}
+  m_Name: Archer
+  m_EditorClassIdentifier: 
+  _costs: 6e00000096000000d2000000d2000000
+  _buyCost: 80
+  _damages: 0a0000000f000000190000001e000000
+  _delays:
+  - 0.8
+  - 0.6
+  - 0.5
+  - 0.4
+  _towerType: 0
+  _radius: 0f000000100000001100000012000000
+  _titleLocalized: {fileID: 4044031339648149109, guid: b3f022ee7bb9c294e8ba23021bf8ae51, type: 3}
+  _descriptionLocalized: {fileID: 7012599768309837956, guid: 883969dc1c3dace4e9addce430009172, type: 3}
